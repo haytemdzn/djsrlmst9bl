@@ -45,13 +45,3 @@ button:hover{
     cursor: pointer;
 }
 
-.edu{
-    background-color: #5bd183;
-    border-radius: 25px;
-    border-color: black;
-    font-size: 25px;
-    text-align: center;
-    display: flex;
-    margin: auto;
-}
-    
